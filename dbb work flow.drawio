@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-15T07:26:06.401Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="-rwgA3HQkO5yIxStfXYR" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-15T07:26:44.949Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="eNIhWcyO9rFvVj4H5lAq" version="12.2.6" type="github" pages="1">
   <diagram id="E6mZis0rzN9z0cpXUbIy" name="第 1 页">
     <mxGraphModel dx="1666" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -11,15 +11,15 @@
           <mxGeometry x="130" y="340" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="1ESeGN69Pckd7pXNOVfS-6" value="电饱饱主机" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="430" y="320" width="130" height="140" as="geometry"/>
+          <mxGeometry x="380" y="320" width="130" height="140" as="geometry"/>
         </mxCell>
         <mxCell id="2chJvBkL3SxL0DrdK62e-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2chJvBkL3SxL0DrdK62e-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="370" as="targetPoint"/>
+            <mxPoint x="380" y="370" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="2chJvBkL3SxL0DrdK62e-1" value="" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="350" width="80" height="40" as="geometry"/>
+          <mxGeometry x="220" y="350" width="80" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
