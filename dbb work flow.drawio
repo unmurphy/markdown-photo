@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-15T07:34:38.152Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="b8bCeDzGhCXgvX9wfjod" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-15T07:39:26.130Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="nuGEC0FGOD5YvTb9t_Kk" version="12.2.6" type="github" pages="1">
   <diagram id="E6mZis0rzN9z0cpXUbIy" name="第 1 页">
     <mxGraphModel dx="1666" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="2chJvBkL3SxL0DrdK62e-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" source="1ESeGN69Pckd7pXNOVfS-1" target="2chJvBkL3SxL0DrdK62e-12">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="2chJvBkL3SxL0DrdK62e-14" value="发起弹宝" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=1" vertex="1" connectable="0" parent="2chJvBkL3SxL0DrdK62e-13">
+        <mxCell id="2chJvBkL3SxL0DrdK62e-14" value="租借请求" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=1" vertex="1" connectable="0" parent="2chJvBkL3SxL0DrdK62e-13">
           <mxGeometry x="-0.2344" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -26,6 +26,14 @@
         </mxCell>
         <mxCell id="2chJvBkL3SxL0DrdK62e-8" value="dbb-device-service" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="833" y="500" width="24" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2chJvBkL3SxL0DrdK62e-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2chJvBkL3SxL0DrdK62e-12" target="2chJvBkL3SxL0DrdK62e-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="2chJvBkL3SxL0DrdK62e-20" value="租借请求" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=1" vertex="1" connectable="0" parent="2chJvBkL3SxL0DrdK62e-18">
+          <mxGeometry x="-0.2222" y="2" relative="1" as="geometry">
+            <mxPoint x="6" as="offset"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2chJvBkL3SxL0DrdK62e-12" value="dbb-mini-gateway" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="248" y="345" width="24" height="50" as="geometry"/>
