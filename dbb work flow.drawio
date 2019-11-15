@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-15T09:39:38.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="YL1-AMkv7JGHtKrmwL5G" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-15T09:42:23.618Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="5R7YtOaxtlvckSrRWK9l" version="12.2.6" type="github" pages="1">
   <diagram id="E6mZis0rzN9z0cpXUbIy" name="第 1 页">
     <mxGraphModel dx="1426" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -26,8 +26,16 @@
             <mxPoint x="13" y="2" as="offset"/>
           </mxGeometry>
         </mxCell>
+        <mxCell id="2chJvBkL3SxL0DrdK62e-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.78;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1ESeGN69Pckd7pXNOVfS-6" target="2chJvBkL3SxL0DrdK62e-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="2chJvBkL3SxL0DrdK62e-56" value="&lt;b&gt;9: 发送弹宝事件&lt;/b&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="2chJvBkL3SxL0DrdK62e-55">
+          <mxGeometry x="0.0886" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1ESeGN69Pckd7pXNOVfS-6" value="电饱饱主机" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="810" y="355" width="130" height="140" as="geometry"/>
+          <mxGeometry x="920" y="355" width="130" height="140" as="geometry"/>
         </mxCell>
         <mxCell id="2chJvBkL3SxL0DrdK62e-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2chJvBkL3SxL0DrdK62e-6" target="1ESeGN69Pckd7pXNOVfS-6">
           <mxGeometry relative="1" as="geometry"/>
@@ -107,7 +115,18 @@
           <mxGeometry x="560" y="540" width="50" height="42" as="geometry"/>
         </mxCell>
         <mxCell id="2chJvBkL3SxL0DrdK62e-46" value="" style="shape=delay;whiteSpace=wrap;html=1;shadow=1;direction=south;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="385" width="40" height="80" as="geometry"/>
+          <mxGeometry x="1200" y="385" width="40" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="2chJvBkL3SxL0DrdK62e-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2chJvBkL3SxL0DrdK62e-57" target="2chJvBkL3SxL0DrdK62e-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="2chJvBkL3SxL0DrdK62e-61" value="10: 处理弹宝事件&lt;br&gt;通知弹宝结果" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=1" vertex="1" connectable="0" parent="2chJvBkL3SxL0DrdK62e-60">
+          <mxGeometry x="-0.1314" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2chJvBkL3SxL0DrdK62e-57" value="dbb-device-mq" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="716" y="355" width="24" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
