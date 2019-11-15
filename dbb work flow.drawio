@@ -1,1 +1,16 @@
-<mxfile host="www.draw.io" modified="2019-11-15T07:24:15.914Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="E5bn8bcoIBUI4OgZaBGY" version="12.2.6" type="github" pages="1"><diagram id="E6mZis0rzN9z0cpXUbIy" name="第 1 页">rZRRT4MwEMc/TR9NYN1gPALifNBpskR97aCDxsKRrrjNT+8xbhuISzSRF66/3l3b/7/AeFzuF0bUxSNkUrOJk+0Zv2WTiet5Hr5acuiIH/AO5EZllHQBK/UpCTpEG5XJ7SDRAmir6iFMoapkagdMGAO7YdoG9HDVWuRyBFap0GP6qjJbdJRzx7lM3EuVF7T01JtTSSlO2ZS6LUQGux7iCeOxAbBdVO5jqVv1TsJ0dXdXZs87M7KyvypIVnKx9ILn9D3z67fl08tmdUNdPoRu6MQs8VkwZeGcJR6bz1nk0/bt4SQKnqRuw6bUYWrBMB59SGMVyvYg1lI/w1ZZBRWmrMFaKDFBtxORSN9zA02VxaDbOuzGN8en1yPUKm9rLdRIC1tqHLgYQmO1qmR89tpBSAfAWrm/qox71htvqoRSWnPAlFOBTxbRJeVTGu96lhMqemZ7xARdsvzc+WIDBuTEH1zxrrkSzVgSsHDGIrcXIEefotawIGZRODZsp0otKvk/cvHJN7ncsVzuT3q5078LhsPLJ3Kc6/1pePIF</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-15T07:24:29.533Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="9M-SFEgEzXZoDKB0pPzG" version="12.2.6" type="github" pages="1">
+  <diagram id="E6mZis0rzN9z0cpXUbIy" name="第 1 页">
+    <mxGraphModel dx="1666" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="1ESeGN69Pckd7pXNOVfS-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="340" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="1ESeGN69Pckd7pXNOVfS-6" value="电饱饱主机" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="320" y="310" width="130" height="140" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
