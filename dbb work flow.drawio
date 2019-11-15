@@ -1,25 +1,40 @@
-<mxfile host="www.draw.io" modified="2019-11-15T07:26:44.949Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="eNIhWcyO9rFvVj4H5lAq" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-15T07:34:38.152Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="b8bCeDzGhCXgvX9wfjod" version="12.2.6" type="github" pages="1">
   <diagram id="E6mZis0rzN9z0cpXUbIy" name="第 1 页">
     <mxGraphModel dx="1666" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="2chJvBkL3SxL0DrdK62e-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ESeGN69Pckd7pXNOVfS-1" target="2chJvBkL3SxL0DrdK62e-1">
+        <mxCell id="2chJvBkL3SxL0DrdK62e-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" source="1ESeGN69Pckd7pXNOVfS-1" target="2chJvBkL3SxL0DrdK62e-12">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="1ESeGN69Pckd7pXNOVfS-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="130" y="340" width="30" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="1ESeGN69Pckd7pXNOVfS-6" value="电饱饱主机" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="380" y="320" width="130" height="140" as="geometry"/>
-        </mxCell>
-        <mxCell id="2chJvBkL3SxL0DrdK62e-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2chJvBkL3SxL0DrdK62e-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="370" as="targetPoint"/>
+        <mxCell id="2chJvBkL3SxL0DrdK62e-14" value="发起弹宝" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=1" vertex="1" connectable="0" parent="2chJvBkL3SxL0DrdK62e-13">
+          <mxGeometry x="-0.2344" relative="1" as="geometry">
+            <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2chJvBkL3SxL0DrdK62e-1" value="" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="350" width="80" height="40" as="geometry"/>
+        <mxCell id="1ESeGN69Pckd7pXNOVfS-1" value="&lt;b&gt;用户&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="127" y="340" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="1ESeGN69Pckd7pXNOVfS-6" value="电饱饱主机" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="703" y="320" width="130" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="2chJvBkL3SxL0DrdK62e-6" value="MQTT" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.gateway;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="610" y="130" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2chJvBkL3SxL0DrdK62e-7" value="dbb-order-service" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="345" width="24" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2chJvBkL3SxL0DrdK62e-8" value="dbb-device-service" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="833" y="500" width="24" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2chJvBkL3SxL0DrdK62e-12" value="dbb-mini-gateway" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="248" y="345" width="24" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2chJvBkL3SxL0DrdK62e-15" value="mysql" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_generic;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="430" y="130" width="37" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2chJvBkL3SxL0DrdK62e-16" value="redis" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="260" width="50" height="42" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
