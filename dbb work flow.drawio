@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-15T08:09:43.446Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="r1b06nOxu3h81VqEeXpz" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-15T08:11:16.290Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="_LbaSel1vkhA1GsQq1Jh" version="12.2.6" type="github" pages="1">
   <diagram id="E6mZis0rzN9z0cpXUbIy" name="第 1 页">
     <mxGraphModel dx="1426" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -36,12 +36,7 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2chJvBkL3SxL0DrdK62e-35" value="&lt;font color=&quot;#f70c0c&quot;&gt;&lt;b&gt;创建订单失败&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="2chJvBkL3SxL0DrdK62e-28">
-          <mxGeometry x="-0.3193" y="-1" relative="1" as="geometry">
-            <mxPoint y="-15" as="offset"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2chJvBkL3SxL0DrdK62e-30" value="&lt;b&gt;4: 发起弹宝请求&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2chJvBkL3SxL0DrdK62e-7" target="2chJvBkL3SxL0DrdK62e-8">
+        <mxCell id="2chJvBkL3SxL0DrdK62e-30" value="&lt;b&gt;4: 发起弹宝请求&lt;br&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2chJvBkL3SxL0DrdK62e-7" target="2chJvBkL3SxL0DrdK62e-8">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="2chJvBkL3SxL0DrdK62e-7" value="dbb-order-service" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic;fontStyle=1" vertex="1" parent="1">
