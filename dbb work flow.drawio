@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-18T07:17:24.659Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="PEcTYn9WvlQRyzMiQksd" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-18T07:22:31.724Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="dRC8mV_JsFmZhhBLxeIA" version="12.2.6" type="github" pages="1">
   <diagram id="E6mZis0rzN9z0cpXUbIy" name="第 1 页">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -197,7 +197,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2chJvBkL3SxL0DrdK62e-67" value="&lt;b&gt;10: 通知弹宝结果&lt;/b&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="2chJvBkL3SxL0DrdK62e-66" vertex="1" connectable="0">
+        <mxCell id="2chJvBkL3SxL0DrdK62e-67" value="&lt;b&gt;10: 同步订单状态&lt;/b&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="2chJvBkL3SxL0DrdK62e-66" vertex="1" connectable="0">
           <mxGeometry x="0.0234" y="1" relative="1" as="geometry">
             <mxPoint x="-167" y="-1" as="offset"/>
           </mxGeometry>
