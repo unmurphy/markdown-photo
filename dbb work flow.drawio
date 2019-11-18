@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-18T06:54:11.546Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="6rlPy9GXkzb98PP_SS-O" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-18T06:54:36.435Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="fde_w2FOeC-VVDgH5WCH" version="12.2.6" type="github" pages="1">
   <diagram id="E6mZis0rzN9z0cpXUbIy" name="第 1 页">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -118,14 +118,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="330" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="560" y="380"/>
-              <mxPoint x="560" y="173"/>
+              <mxPoint x="572" y="173"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Uqirq0yxmopc6vjqkCWa-6" value="17: 更新弹宝记录状态" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=1" vertex="1" connectable="0" parent="Uqirq0yxmopc6vjqkCWa-5">
           <mxGeometry x="-0.5975" relative="1" as="geometry">
-            <mxPoint x="20" y="-8" as="offset"/>
+            <mxPoint x="12" y="-8" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="Uqirq0yxmopc6vjqkCWa-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2chJvBkL3SxL0DrdK62e-8" target="2chJvBkL3SxL0DrdK62e-15">
