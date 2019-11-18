@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-18T03:24:03.355Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="VSga8DEXzTWB2gHULtkW" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-18T03:32:18.435Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="bcJMRhaJY4W_kqGj9KNY" version="12.2.6" type="github" pages="1">
   <diagram id="E6mZis0rzN9z0cpXUbIy" name="第 1 页">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -63,11 +63,6 @@
         <mxCell id="2chJvBkL3SxL0DrdK62e-30" value="&lt;b&gt;4: 发起弹宝请求&lt;br&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2chJvBkL3SxL0DrdK62e-7" target="2chJvBkL3SxL0DrdK62e-8" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="Uqirq0yxmopc6vjqkCWa-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2chJvBkL3SxL0DrdK62e-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="437" y="380" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Uqirq0yxmopc6vjqkCWa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2chJvBkL3SxL0DrdK62e-7" target="2chJvBkL3SxL0DrdK62e-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -101,7 +96,7 @@
         </mxCell>
         <mxCell id="2chJvBkL3SxL0DrdK62e-40" value="5: 获取可租借充电宝信息&lt;br&gt;6: 锁定主机" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=1" parent="2chJvBkL3SxL0DrdK62e-39" vertex="1" connectable="0">
           <mxGeometry x="0.2404" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset"/>
+            <mxPoint x="-2" y="36" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="2chJvBkL3SxL0DrdK62e-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2chJvBkL3SxL0DrdK62e-8" target="2chJvBkL3SxL0DrdK62e-6" edge="1">
@@ -130,7 +125,7 @@
           <mxGeometry x="430" y="130" width="37" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="2chJvBkL3SxL0DrdK62e-16" value="redis" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="560" y="590" width="50" height="42" as="geometry"/>
+          <mxGeometry x="590" y="660" width="50" height="42" as="geometry"/>
         </mxCell>
         <mxCell id="2chJvBkL3SxL0DrdK62e-46" value="" style="shape=delay;whiteSpace=wrap;html=1;shadow=1;direction=south;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="1247" y="385" width="40" height="80" as="geometry"/>
@@ -160,8 +155,8 @@
         <mxCell id="2chJvBkL3SxL0DrdK62e-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2chJvBkL3SxL0DrdK62e-57" target="2chJvBkL3SxL0DrdK62e-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="775" y="440"/>
-              <mxPoint x="345" y="440"/>
+              <mxPoint x="775" y="450"/>
+              <mxPoint x="345" y="450"/>
             </Array>
           </mxGeometry>
         </mxCell>
