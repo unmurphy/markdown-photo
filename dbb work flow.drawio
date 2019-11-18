@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-18T06:54:36.435Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="fde_w2FOeC-VVDgH5WCH" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-18T06:57:27.268Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="SI-aoqey2cL23-m1JZMa" version="12.2.6" type="github" pages="1">
   <diagram id="E6mZis0rzN9z0cpXUbIy" name="第 1 页">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -84,9 +84,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2chJvBkL3SxL0DrdK62e-38" value="6: 创建弹宝记录instruction信息" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=1" parent="2chJvBkL3SxL0DrdK62e-36" vertex="1" connectable="0">
+        <mxCell id="2chJvBkL3SxL0DrdK62e-38" value="6: 创建弹宝记录信息" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=1" parent="2chJvBkL3SxL0DrdK62e-36" vertex="1" connectable="0">
           <mxGeometry x="-0.0233" y="-1" relative="1" as="geometry">
-            <mxPoint x="-1" y="-5" as="offset"/>
+            <mxPoint x="-11" y="-5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="2chJvBkL3SxL0DrdK62e-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2chJvBkL3SxL0DrdK62e-8" target="2chJvBkL3SxL0DrdK62e-16" edge="1">
@@ -182,9 +182,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2chJvBkL3SxL0DrdK62e-65" value="&lt;b&gt;11: 更新弹记录instruction状态信息&lt;/b&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="2chJvBkL3SxL0DrdK62e-64" vertex="1" connectable="0">
+        <mxCell id="2chJvBkL3SxL0DrdK62e-65" value="&lt;b&gt;11: 更新弹记录状态信息&lt;/b&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="2chJvBkL3SxL0DrdK62e-64" vertex="1" connectable="0">
           <mxGeometry x="0.5556" y="-1" relative="1" as="geometry">
-            <mxPoint x="99" y="1" as="offset"/>
+            <mxPoint x="28" y="1" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="2chJvBkL3SxL0DrdK62e-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="2chJvBkL3SxL0DrdK62e-57" target="2chJvBkL3SxL0DrdK62e-7" edge="1">
