@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-18T06:50:44.517Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="h1sVCysGg9OJrabB84oR" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-18T06:50:51.141Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="dUuT5vPtU7P5SumvbN7z" version="12.2.6" type="github" pages="1">
   <diagram id="E6mZis0rzN9z0cpXUbIy" name="第 1 页">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         </mxCell>
         <mxCell id="2chJvBkL3SxL0DrdK62e-56" value="&lt;b&gt;9: 发送弹宝结果事件&lt;/b&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="2chJvBkL3SxL0DrdK62e-55" vertex="1" connectable="0">
           <mxGeometry x="0.0886" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset"/>
+            <mxPoint x="4" y="-28" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="1ESeGN69Pckd7pXNOVfS-6" value="电饱饱主机" style="swimlane;" parent="1" vertex="1">
