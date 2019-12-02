@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-02T13:14:32.701Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="zMOGNISqQt-H9K6ogQB7" version="12.3.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-02T13:32:31.490Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="E1w2eT1GS6T24YeIFv_l" version="12.3.4" type="github" pages="1">
   <diagram id="E6mZis0rzN9z0cpXUbIy" name="第 1 页">
     <mxGraphModel dx="1666" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0"/>
         <mxCell id="2chJvBkL3SxL0DrdK62e-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="188" y="372" as="sourcePoint"/>
+            <mxPoint x="170" y="372" as="sourcePoint"/>
             <mxPoint x="468" y="372" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
@@ -17,29 +17,29 @@
         </mxCell>
         <mxCell id="uIEZBoJtX0BrvBjHW0k1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1">
           <mxGeometry x="0.0791" relative="1" as="geometry">
-            <mxPoint x="190" y="389" as="sourcePoint"/>
+            <mxPoint x="170" y="389" as="sourcePoint"/>
             <mxPoint x="468" y="389" as="targetPoint"/>
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uIEZBoJtX0BrvBjHW0k1-7" value="&lt;span style=&quot;font-size: 11px ; font-weight: 700&quot;&gt;2: 查询预授权状态&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="uIEZBoJtX0BrvBjHW0k1-3">
+        <mxCell id="uIEZBoJtX0BrvBjHW0k1-7" value="&lt;span style=&quot;font-size: 11px ; font-weight: 700&quot;&gt;3: 查询预授权状态&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="uIEZBoJtX0BrvBjHW0k1-3">
           <mxGeometry x="-0.5827" y="-1" relative="1" as="geometry">
             <mxPoint x="62" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="uIEZBoJtX0BrvBjHW0k1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="189" y="410" as="sourcePoint"/>
+            <mxPoint x="170" y="410" as="sourcePoint"/>
             <mxPoint x="467" y="410" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uIEZBoJtX0BrvBjHW0k1-8" value="3: 发起弹宝请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontStyle=1" vertex="1" connectable="0" parent="uIEZBoJtX0BrvBjHW0k1-6">
+        <mxCell id="uIEZBoJtX0BrvBjHW0k1-8" value="4: 发起弹宝请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontStyle=1" vertex="1" connectable="0" parent="uIEZBoJtX0BrvBjHW0k1-6">
           <mxGeometry x="0.1007" y="1" relative="1" as="geometry">
             <mxPoint x="58" y="1" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="1ESeGN69Pckd7pXNOVfS-1" value="&lt;b&gt;用户&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="150" y="350" width="30" height="60" as="geometry"/>
+          <mxGeometry x="137" y="350" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="2chJvBkL3SxL0DrdK62e-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1ESeGN69Pckd7pXNOVfS-6" target="2chJvBkL3SxL0DrdK62e-46" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -91,7 +91,7 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2chJvBkL3SxL0DrdK62e-30" value="&lt;b&gt;3: 发起弹宝请求&lt;br&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2chJvBkL3SxL0DrdK62e-7" target="2chJvBkL3SxL0DrdK62e-8" edge="1">
+        <mxCell id="2chJvBkL3SxL0DrdK62e-30" value="&lt;b&gt;5: 发起弹宝请求&lt;br&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2chJvBkL3SxL0DrdK62e-7" target="2chJvBkL3SxL0DrdK62e-8" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Uqirq0yxmopc6vjqkCWa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2chJvBkL3SxL0DrdK62e-7" target="2chJvBkL3SxL0DrdK62e-15" edge="1">
@@ -118,7 +118,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2chJvBkL3SxL0DrdK62e-38" value="6: 创建弹宝记录信息" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=1" parent="2chJvBkL3SxL0DrdK62e-36" vertex="1" connectable="0">
+        <mxCell id="2chJvBkL3SxL0DrdK62e-38" value="6.2: 创建弹宝记录信息" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=1" parent="2chJvBkL3SxL0DrdK62e-36" vertex="1" connectable="0">
           <mxGeometry x="-0.0233" y="-1" relative="1" as="geometry">
             <mxPoint x="-11" y="-5" as="offset"/>
           </mxGeometry>
@@ -130,7 +130,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2chJvBkL3SxL0DrdK62e-40" value="4: 获取可租借充电宝信息&lt;br&gt;锁定主机" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=1" parent="2chJvBkL3SxL0DrdK62e-39" vertex="1" connectable="0">
+        <mxCell id="2chJvBkL3SxL0DrdK62e-40" value="6.1: 获取可租借充电宝信息&lt;br&gt;锁定主机" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=1" parent="2chJvBkL3SxL0DrdK62e-39" vertex="1" connectable="0">
           <mxGeometry x="0.2404" y="-3" relative="1" as="geometry">
             <mxPoint x="-2" y="36" as="offset"/>
           </mxGeometry>
