@@ -1,21 +1,28 @@
-<mxfile host="www.draw.io" modified="2019-12-02T12:56:11.097Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="dpDaRDqseC0-H20SoQnD" version="12.3.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-02T13:00:57.562Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="c-MWBlSngljdYTarpW5j" version="12.3.4" type="github" pages="1">
   <diagram id="E6mZis0rzN9z0cpXUbIy" name="第 1 页">
     <mxGraphModel dx="1666" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="2chJvBkL3SxL0DrdK62e-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1ESeGN69Pckd7pXNOVfS-1" edge="1">
+        <mxCell id="2chJvBkL3SxL0DrdK62e-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="465" y="377" as="targetPoint"/>
+            <mxPoint x="188" y="370" as="sourcePoint"/>
+            <mxPoint x="468" y="370" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="2chJvBkL3SxL0DrdK62e-14" value="1: 预授权冻结" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=1" parent="2chJvBkL3SxL0DrdK62e-13" vertex="1" connectable="0">
           <mxGeometry x="-0.2344" relative="1" as="geometry">
-            <mxPoint x="13" as="offset"/>
+            <mxPoint x="-45" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uIEZBoJtX0BrvBjHW0k1-3" value="2: 查询预授权状态" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" target="2chJvBkL3SxL0DrdK62e-7">
+          <mxGeometry x="0.0791" relative="1" as="geometry">
+            <mxPoint x="190" y="390" as="sourcePoint"/>
+            <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="1ESeGN69Pckd7pXNOVfS-1" value="&lt;b&gt;用户&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="355" width="30" height="60" as="geometry"/>
+          <mxGeometry x="150" y="350" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="2chJvBkL3SxL0DrdK62e-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1ESeGN69Pckd7pXNOVfS-6" target="2chJvBkL3SxL0DrdK62e-46" edge="1">
           <mxGeometry relative="1" as="geometry"/>
