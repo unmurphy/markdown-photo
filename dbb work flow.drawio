@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-02T13:32:31.490Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="E1w2eT1GS6T24YeIFv_l" version="12.3.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-02T13:33:42.157Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="w6f0C7tlHTfIViV4A8mQ" version="12.3.4" type="github" pages="1">
   <diagram id="E6mZis0rzN9z0cpXUbIy" name="第 1 页">
     <mxGraphModel dx="1666" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -118,9 +118,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2chJvBkL3SxL0DrdK62e-38" value="6.2: 创建弹宝记录信息" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=1" parent="2chJvBkL3SxL0DrdK62e-36" vertex="1" connectable="0">
+        <mxCell id="2chJvBkL3SxL0DrdK62e-38" value="6.2: 创建弹宝记录信息&lt;br&gt;更新仓位处于弹宝中" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=1" parent="2chJvBkL3SxL0DrdK62e-36" vertex="1" connectable="0">
           <mxGeometry x="-0.0233" y="-1" relative="1" as="geometry">
-            <mxPoint x="-11" y="-5" as="offset"/>
+            <mxPoint x="4" y="-20" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="2chJvBkL3SxL0DrdK62e-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2chJvBkL3SxL0DrdK62e-8" target="2chJvBkL3SxL0DrdK62e-16" edge="1">
