@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-02T13:00:57.562Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="c-MWBlSngljdYTarpW5j" version="12.3.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-02T13:08:57.433Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="fjnu8saX2h3I8GjqKPxI" version="12.3.4" type="github" pages="1">
   <diagram id="E6mZis0rzN9z0cpXUbIy" name="第 1 页">
     <mxGraphModel dx="1666" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -6,19 +6,31 @@
         <mxCell id="1" parent="0"/>
         <mxCell id="2chJvBkL3SxL0DrdK62e-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="188" y="370" as="sourcePoint"/>
-            <mxPoint x="468" y="370" as="targetPoint"/>
+            <mxPoint x="188" y="372" as="sourcePoint"/>
+            <mxPoint x="468" y="372" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="2chJvBkL3SxL0DrdK62e-14" value="1: 预授权冻结" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=1" parent="2chJvBkL3SxL0DrdK62e-13" vertex="1" connectable="0">
           <mxGeometry x="-0.2344" relative="1" as="geometry">
-            <mxPoint x="-45" as="offset"/>
+            <mxPoint x="-64" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uIEZBoJtX0BrvBjHW0k1-3" value="2: 查询预授权状态" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" target="2chJvBkL3SxL0DrdK62e-7">
+        <mxCell id="uIEZBoJtX0BrvBjHW0k1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1">
           <mxGeometry x="0.0791" relative="1" as="geometry">
-            <mxPoint x="190" y="390" as="sourcePoint"/>
+            <mxPoint x="190" y="389" as="sourcePoint"/>
+            <mxPoint x="468" y="389" as="targetPoint"/>
             <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uIEZBoJtX0BrvBjHW0k1-7" value="&lt;span style=&quot;font-size: 11px ; font-weight: 700&quot;&gt;2: 查询预授权状态&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="uIEZBoJtX0BrvBjHW0k1-3">
+          <mxGeometry x="-0.5827" y="-1" relative="1" as="geometry">
+            <mxPoint x="62" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uIEZBoJtX0BrvBjHW0k1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="189" y="410" as="sourcePoint"/>
+            <mxPoint x="467" y="410" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="1ESeGN69Pckd7pXNOVfS-1" value="&lt;b&gt;用户&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
